@@ -1,4 +1,10 @@
-### Hi there 👋
+### Howdy Web Traveller 🤠
+
+⚙️ I'm currently working with [DataX](https://github.com/dataxfi), building [Datax.js](https://github.com/dataxfi/datax.js), [Datapolis](https://www.datapolis.city/), and other Data Defi projects. 
+
+🌱 I'm focusing on expanding my knowledge in front end applicaitions, web3.js, and want to learn solidity as well. 
+
+⚡ From Sonic (🍔s, 🍟s, and 🥤s) crew member, to warehouse worker 📦, to music producer 🎹, to certified machinist ⚙️, to heavy equipment operator 🚜, to web developer 💻 !
 
 <!--
 **keithfrazier98/keithfrazier98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
