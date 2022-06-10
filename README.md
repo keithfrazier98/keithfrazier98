@@ -6,7 +6,7 @@
 
 ⚡ From Sonic (🍔s, 🍟s, and 🥤s) crew member, to warehouse worker 📦, to music producer 🎹, to certified machinist ⚙️, to heavy equipment operator 🚜, to web developer 💻 !
 
-📫 Check out my [www.keithfrazier.me](portfolio) for more info and ways to contact me, or friend me on discord (Safari | DataX#2063) and send a dm.
+📫 Check out my [portfolio](www.keithfrazier.me) for more info and ways to contact me, or friend me on discord (Safari | DataX#2063) and send a dm.
 
 [My 3D Commit History](https://skyline.github.com/keithfrazier98/2021)
 
