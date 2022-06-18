@@ -1,4 +1,4 @@
-### Greetings Web Traveller 🤠
+### Greetings Web Traveller 👾
 
 ⚙️ I'm currently working with [DataX](https://github.com/dataxfi), building [Datax.js](https://github.com/dataxfi/datax.js), [Datapolis](https://www.datapolis.city/), and other Data Defi projects. 
 
