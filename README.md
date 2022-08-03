@@ -4,7 +4,7 @@
 
 🌱 I'm focusing on expanding my knowledge in front end applicaitions, and understanding in the blockchain ecosystem. 
 
-⚡ Fun Fact: My career journey has taken me from Sonic Carhop (yes, 🍔s, 🍟s, and 🥤s), to warehouse worker 📦, to music producer 🎹, to certified machinist ⚙️, to heavy equipment operator 🚜, to web developer 💻 !
+⚡ Fun Fact: My career journey has taken me from Sonic Carhop (yes, 🍔s, 🍟s, and 🥤s), to warehouse worker 📦, to music producer 🎹, to certified CNC  machinist and programmer ⚙️, to heavy equipment operator 🚜, to web developer 💻 !
 
 📫 Check out my [portfolio](www.keithfrazier.me) for more info and ways to contact me, or friend me on discord (Safari | DataX#2063) and send a dm.
 
