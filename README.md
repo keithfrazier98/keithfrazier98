@@ -4,7 +4,7 @@
 
 🌱 I'm focusing on expanding my knowledge in front end applicaitions, and understanding in the blockchain ecosystem. 
 
-⚡ Fun Fact: My career journey has taken me from Sonic Carhop (yes, 🍔s, 🍟s, and 🥤s), to warehouse worker 📦, to music producer 🎹, to certified CNC  machinist and programmer ⚙️, to heavy equipment operator 🚜, to web developer 💻 !
+⚡ Fun Fact: My career journey has taken me from Sonic Carhop ⚡,  to warehouse worker 📦, to music producer 🎹, to certified CNC  machinist and programmer ⚙️, to heavy equipment operator 🚜, to web developer 💻 !
 
 📫 Check out my [portfolio](https://www.keithfrazier.me) for more info and ways to contact me, or friend me on discord (Safari | DataX#2063) and send a dm.
 
@@ -16,7 +16,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...⚡️
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
