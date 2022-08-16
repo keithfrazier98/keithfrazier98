@@ -6,7 +6,7 @@
 
 ⚡ Fun Fact: My career journey has taken me from Sonic Carhop (yes, 🍔s, 🍟s, and 🥤s), to warehouse worker 📦, to music producer 🎹, to certified CNC  machinist and programmer ⚙️, to heavy equipment operator 🚜, to web developer 💻 !
 
-📫 Check out my [portfolio](www.keithfrazier.me) for more info and ways to contact me, or friend me on discord (Safari | DataX#2063) and send a dm.
+📫 Check out my [portfolio](https://www.keithfrazier.me) for more info and ways to contact me, or friend me on discord (Safari | DataX#2063) and send a dm.
 
 [My 3D Commit History](https://skyline.github.com/keithfrazier98/2021)
 
