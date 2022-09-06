@@ -1,8 +1,7 @@
 ### Greetings Web Traveller 🛸
 
-⚙️ I'm currently working with [DataX](https://github.com/dataxfi), building [Datax.js](https://github.com/dataxfi/datax.js), [Datapolis](https://www.datapolis.city/), and other Data Defi projects. 
 
-🌱 I'm focusing on expanding my knowledge in front end applicaitions, and understanding in the blockchain ecosystem. 
+🌱 I'm focusing on expanding my knowledge in front end applicaitions, React, and GraphQL APIs. 
 
 ⚡ Fun Fact: My career journey has taken me from Sonic Carhop ⚡,  to Warehouse Worker 📦, to Music Producer 🎹, to Certified CNC  Machinist and Programmer ⚙️, to web developer 💻 !
 
