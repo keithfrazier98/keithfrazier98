@@ -1,6 +1,6 @@
 ### Greetings Web Traveller 🛸
 
-🌱 I'm focusing on expanding my knowledge in front end applicaitions, React, and GraphQL APIs. 
+🌱 Currently focused on expanding my knowledge in front end applicaitions, React, and GraphQL APIs. 
 
 ⚡ Machinist ⚙️ turned CNC Programmer 🦾 turned Web Developer 👨‍💻
 
